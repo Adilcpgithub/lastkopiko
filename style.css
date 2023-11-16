@@ -1,0 +1,83 @@
+*{
+        padding: 0;
+        margin: 0;
+}
+
+.head-color{
+        color:#b7b7b7;
+        letter-spacing: 5.5px;
+        font-weight: 400;
+        
+        
+}
+.kopiko{
+        font-family: "Playfair Display", serif;
+        
+}
+.kopiko1{
+        font-family: "Playfair Display", serif;
+        letter-spacing: 0px;
+        color:#b7b7b7;
+        
+}
+
+.k-black,.container-fluid {
+        background-color: black;
+}
+.icon-bar{
+        background-color: darkorange;
+        height: 20px;
+        width: 30px;
+        color: blanchedalmond;
+}
+.candy{
+        font-family: "Playfair Display", serif;
+        color: whitesmoke;
+}
+.site-dn{
+        text-decoration: underline;
+        color: #97554d;
+}
+.p-style{
+        font-size: 15pt;
+        color: rgb(85, 77, 77);
+}
+.d-block w-100{
+        height: 150px;
+        max-width: 100%;
+
+}
+ 
+.lastone{
+        /* background-color: #97554d; */
+        height: 200px;
+       
+}
+.p-last{
+        color: #b7b7b7;
+}
+.nn{ height: 20px;
+        color: rgb(39, 131, 211);
+
+}
+.right-icon{
+        height: 20px;
+        color: aliceblue;
+        position: fixed;
+}
+.icon{
+        width: 32px;
+        height: 32px;
+      }
+.img-reponsive{
+        height: auto;
+    max-width: 100%;
+} 
+.sliz{
+        height: auto;
+    max-width: 100%;
+}  
+.border-5{
+   color: white;
+}
+
